@@ -1,7 +1,7 @@
 # CIKM23_paper_1804
-Each csv file contains question, gold answer, answer from KITLM, answer from ChatGPT and answer from GPT3 Finetuned.<br />
+Each csv file contains question, gold answer, answer from KITLM, answer from ChatGPT(API) and answer from GPT3 Finetuned.<br />
 ChatGPT is one shot<br /><br />
-For a question **What medical certification does Pilot_CHI05LA050 have?**, the prompt looks like:<br /><br />
+For the question **What medical certification does Pilot_CHI05LA050 have?**, the prompt to ChatGPT:<br /><br />
 
 
 >**What medical certification does Pilot_CHI05LA050 have?**<br />
