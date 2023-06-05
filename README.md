@@ -1,4 +1,4 @@
-# KITLM_CIKM23
+# CIKM23_paper_1804
 Each csv file contains question, gold answer, answer from KITLM, answer from ChatGPT and answer from GPT3 Finetuned.<br />
 ChatGPT is one shot<br /><br />
 For a question **what films did Christina Ricci act in**, the prompt looks like:<br /><br />
